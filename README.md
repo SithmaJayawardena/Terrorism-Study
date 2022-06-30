@@ -14,3 +14,4 @@ The goals of this study:
 3. Data visualization using interactive plots and maps.
 4. Practice tabular data extraction and manipulation for an efficient analysis.
 5. Use different python librarires (e.g. pandas, numpy, ipywidgets, geopandas etc.)
+
