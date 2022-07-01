@@ -15,3 +15,5 @@ The goals of this study:
 4. Practice tabular data extraction and manipulation for an efficient analysis.
 5. Use different python librarires (e.g. pandas, numpy, ipywidgets, geopandas etc.)
 
+
+![My Image](Violence.jpg.webp)
