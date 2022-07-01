@@ -9,7 +9,7 @@ The general outline of this notebook is as follows:
 4. Compare the incidence of conflicts by year.
 
 The goals of this study:
-1. Exploratory Data Analysis of Terrorism data in African countries
+1. Exploratory Data Analysis of Terrorism data in African countries.
 2. Incorporate dummy coding and data aggregation techniques.
 3. Data visualization using interactive plots and maps.
 4. Practice tabular data extraction and manipulation for an efficient analysis.
